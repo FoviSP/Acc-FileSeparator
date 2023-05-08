@@ -7,6 +7,7 @@
 
 ## Розбиття файлу
 Вказується шлях до файлу та розмір частин у КБ
+
 <img src="https://github.com/Leksiyko/Acc-FileSeparator/blob/main/readme.data/img1.png"/>
 
 <img src="https://github.com/Leksiyko/Acc-FileSeparator/blob/main/readme.data/img2.png"/>
